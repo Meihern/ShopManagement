@@ -1,0 +1,40 @@
+.custom-button {
+    -fx-font: 20px "Serif";
+    -fx-pref-height: 50;
+    -fx-pref-width: 200;
+    -fx-background-color: #004080;
+    -fx-text-fill:black;
+
+}
+
+.menuButton{
+    -fx-background-color: #5B6A7D;
+    -fx-font: 15px "Times New Roman";
+    -fx-text-fill: white;
+}
+
+.custom-label {
+    -fx-font: 24px "Serif";
+    -fx-padding: 10;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+}
+
+.custom-product-label{
+    -fx-font: 16px "Verdana";
+    -fx-text-fill: black;
+}
+
+.custom-pane-top {
+    -fx-background-color: #909090;
+}
+.custom-pane-left {
+    -fx-background-color: #b5e7ff;
+}
+.custom-pane-center {
+    -fx-background-color: #ececec;
+}
+
+.custom-input {
+    -fx-arc-width: 30%;
+}
